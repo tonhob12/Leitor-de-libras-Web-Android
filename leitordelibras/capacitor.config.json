@@ -1,0 +1,10 @@
+{
+  "appId": "concioscompany.leitordelibras",
+  "appName": "Leitor de libras",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}

@@ -1,0 +1,12 @@
+body {
+  background-color: rgba(0, 241, 0, 0.943);
+}
+#video {
+  width: 640px;
+  height: 480px;
+  border: 2px solid black;
+}
+#status {
+  font-size: 24px;
+  margin-top: 20px;
+}

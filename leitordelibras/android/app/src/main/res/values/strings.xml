@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Leitor de libras</string>
+    <string name="title_activity_main">Leitor de libras</string>
+    <string name="package_name">concioscompany.leitordelibras</string>
+    <string name="custom_url_scheme">concioscompany.leitordelibras</string>
+</resources>
